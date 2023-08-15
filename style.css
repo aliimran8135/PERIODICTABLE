@@ -1,0 +1,81 @@
+h1{
+    background-color: yellow;
+    color: rgb(7, 7, 138);
+    padding: 10px;
+    font-size: 32px;
+}
+tr{
+    text-align: center;
+    empty-cells: hide;
+}
+.orange{
+    background-color: orange;
+    color: green;
+}
+.pink{
+    background-color: pink;
+    color: black;
+}
+.blue{
+    background-color: skyblue;
+}
+.yellowish{
+    background-color: rgb(173, 239, 43);
+    color: black;
+}
+.redish{
+    background-color: rgb(232, 81, 81);
+}
+.seagreen{
+    background-color: rgb(56, 242, 137);
+}
+.pinkish{
+    background-color: rgb(250, 158, 173);
+}
+.white{
+    background-color: white;
+    color: blue;
+}
+.skin{
+    background-color: beige;
+    color: rgb(46, 46, 244);
+}
+.purple{
+    background-color: pink;
+    color: blueviolet;
+}
+.element{
+    background-color: rgb(173, 239, 43);
+    color: red;
+}
+.red{
+    background-color: rgb(250, 158, 173);
+    color: rgb(231, 7, 7);
+}
+.component{
+    color: red;
+}
+.mode{
+    background-color: beige;
+    color: black;
+}
+.day{
+    background-color: rgb(56, 242, 137);
+    color: blue;
+}
+.violet{
+    background-color: beige;
+    color: rgb(157, 66, 242);
+}
+.index{
+    background-color: rgb(173, 239, 43);
+    color: blueviolet;
+}
+.box{
+    background-color:  rgb(232, 81, 81);
+    color: black;
+}
+.car{
+    background-color: skyblue;
+    color: black;
+}
